@@ -1,0 +1,33 @@
+✅ How to Use:
+Save the scripts:
+------------------------------------------------------------------------------
+Save weaken.js, grow.js, and hack.js separately.
+Save the main script as ultimate-hack.js.
+Run the Main Script
+------------------------------------------------------------------------------
+🔥 Features Explained:
+✅ Auto-Scanning:
+The script scans all servers and dynamically hacks new ones as they become available.
+--------------------------------------------------------------------------------------
+✅ Root Access & Auto-Nuke:
+Automatically uses available hacking tools (BruteSSH, FTPCrack, etc.) to gain root access.
+------------------------------------------------------------------------------------------------
+✅ Parallel Hacking:
+Uses multithreading across all servers to weaken, grow, and hack simultaneously for maximum profit.
+--------------------------------------------------------------------------------------------------
+✅ Server Purchasing & Upgrading:
+Automatically buys and upgrades servers when you have excess money.
+Keeps expanding your hacking power.
+----------------------------------------------------------------------
+🚀 Tips to Maximize Profits:
+Focus on High-Money Servers:
+------------------------------------------------------------------------
+Prioritize servers like joesguns, omega-net, and eventually n00dles.
+Upgrade Home Server:
+------------------------------------------------------------------------
+Buy more RAM for your home server to run multiple hacking scripts.
+Stock Market (Optional):
+---------------------------------------------------------------------------------------------------------------
+Once you have tons of money, you can implement auto-stock trading for even higher gains.
+💰 Profit Potential:
+This script will automatically scan, exploit, and expand your hacking network, generating huge passive income. 💸
